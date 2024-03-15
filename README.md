@@ -1,5 +1,14 @@
-### Hi there 👋
+👋 Hello, World! Welcome to my GitHub profile!
 
+I'm Jonas Dåderman, a ICT student at KTH passionate about learning. Here you'll find a collection of projects, experiments, and ideas I've been tinkering with. My journey in the world of coding and creativity is an ongoing adventure, and I'm thrilled to share a glimpse of it with you.
+
+🚀 Dive into the repositories and explore a variety of topics, including data structures, algorithms and larger full stack projects. Whether it's a small utility script, a complex application, or an exploration into the latest technologies, each project represents a step forward in my learning and growth.
+
+🌟 If you find something interesting or useful, feel free to star, fork, or contribute. Collaboration and open-source code is the back-bone of modern technology, and I'm always open to new ideas and perspectives.
+
+📫 Want to get in touch? Don't hesitate to reach out via dadermanjonas@gmail.com
+
+Happy coding! ✨
 <!--
 **Jonasdad/Jonasdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
